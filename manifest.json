@@ -1,0 +1,11 @@
+{
+  "domain": "xmassled",
+  "name": "Xmass LED BLE",
+  "documentation": "https://github.com/yakhira/xmassled",
+  "issue_tracker": "https://github.com/yakhira/xmassled/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": [
+    "@yakhira"
+  ]
+}

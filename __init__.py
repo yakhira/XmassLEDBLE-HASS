@@ -1,0 +1,1 @@
+"""Xmass LED BLE integration."""
