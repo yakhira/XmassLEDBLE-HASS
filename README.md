@@ -14,7 +14,6 @@ Add the following entry in your `configuration.yaml`:
 ```yaml
 light:
   - platform: xmassled
-    token: smartthings token
     devices: 
       - LEDBLE-0387D5 
 ```
