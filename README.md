@@ -14,6 +14,6 @@ Add the following entry in your `configuration.yaml`:
 ```yaml
 light:
   - platform: xmassled
-    devices: 
-      - LEDBLE-0387D5 
+    name: LEDBLE-0387D5 
+    address: 78:9C:E7:03:87:D5
 ```
